@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SevenSegCommonAnode_VS", "SevenSegCommonAnode_VS.vcxproj", "{6D6AB7EA-2608-4105-8B0E-4034B0D745EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D6AB7EA-2608-4105-8B0E-4034B0D745EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D6AB7EA-2608-4105-8B0E-4034B0D745EA}.Debug|Win32.Build.0 = Debug|Win32
+		{6D6AB7EA-2608-4105-8B0E-4034B0D745EA}.Release|Win32.ActiveCfg = Release|Win32
+		{6D6AB7EA-2608-4105-8B0E-4034B0D745EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
